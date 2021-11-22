@@ -1,1 +1,1 @@
-# nn based on go
+# Neunal Network based on GO
